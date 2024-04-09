@@ -40,3 +40,15 @@
     (34, 'Wesley', 'Batista', '17');
   
 </PRE>
+
+
+
+
+<PRE>
+criterios:
+  (C) Entregou código fonte das atividades 1 e 2 funcionando corretamente
+  (C) Entregou código fonte da atividade 3
+  (D) Código fonte da ativiade 3 funciona corretamente
+  
+</PRE>
+
